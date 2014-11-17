@@ -7,9 +7,9 @@ Quicklinks within this document:
     - [Your Instructors](#your-instructors-today)
     - [Examples! MBA Student Websites](#mba-student-websites)
 - [Tutorial](#tutorial)
-    - [Setup](#setup)
-    - [Building Website](#building-webpage)
-    - [Pushing Code](#pushing-code)
+    - [Setup](#1-setup)
+    - [Building Website](#2-building-webpage)
+    - [Pushing Code](#3-pushing-code)
 
 Thanks for coming to our workshop! You're here today because you want to learn
 to code.
@@ -103,10 +103,10 @@ It's actually all very simple.
 - We are going to show you how to do everything you need to do.
 - If you have questions, just ask us!
 
-## Setup
+## 1. Setup
 
 
-## Building Webpage
+## 2. Building Webpage
 
 Now we're ready to build your webpage!
 
@@ -216,4 +216,4 @@ see what happens to your website. Here are some ideas:
 
 
 
-## Pushing Code
+## 3. Pushing Code
