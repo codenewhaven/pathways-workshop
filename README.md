@@ -72,6 +72,10 @@ Here's an example of what you are going to build today:
 
 - <http://codenewhaven.github.io/pathways-workshop>
 
+You can see all the **source code** for this website here:
+
+- <https://github.com/codenewhaven/pathways-workshop/tree/gh-pages>
+
 In the next hour, this is what you're going to do:
 
 1. Setup
@@ -174,7 +178,7 @@ http://codenewhaven.github.io/pathways-workshop/
 If you copy and paste that code into a file on your computer, and save it as
 `index.html`, then you will see the same thing when you open the browser.
 
-### Try it yourself!
+### Try it yourself! Make a simple webpage.
 
 Here's what you do:
 
