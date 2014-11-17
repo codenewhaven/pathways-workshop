@@ -94,6 +94,11 @@ In the next hour, this is what you're going to do:
 If any of this looks confusing to you now, don't worry, it won't be soon!
 It's actually all very simple.
 
+### IF THIS LOOKS LIKE A LOT OF TEXT, DON'T WORRY!!
+### You don't have to read all of it now. It might help you later.
+### We are going to show you how to do everything you need to do.
+### If you have questions, just ask us!
+
 ## Setup
 
 
