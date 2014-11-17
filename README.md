@@ -1,3 +1,5 @@
+# Welcome, Pathways Students!
+
 - [Welcome](#welcome-pathways-students)
     - [Agenda](#workshop-agenda)
     - [Instructors](#your-instructors-today)
@@ -6,9 +8,6 @@
     - [Setup](#setup)
     - [Building Website](#building-website)
     - [Pushing Code](#pushing-code)
-
-
-# Welcome, Pathways Students!
 
 Thanks for coming to our workshop! You're here today because you want to learn
 to code.
@@ -51,3 +50,5 @@ Here are some of the websites the MBA kids have made!
 
 They're a work in progress, but a great start! By the end of today, you're
 all going to have a website like this.
+
+# Tutorial
