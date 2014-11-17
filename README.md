@@ -11,6 +11,18 @@ Quicklinks within this document:
     - [Building Website](#2-building-webpage)
     - [Pushing Code](#3-pushing-code)
 
+Other helpful things:
+
+- [Example Website](http://codenewhaven.github.io/pathways-workshop/)
+- [Code for example website](https://github.com/codenewhaven/pathways-workshop/tree/gh-pages)
+
+External resources (HTML help):
+
+- http://webhelp.org/html/
+- http://en.wikipedia.org/wiki/HTML
+- http://www.webmonkey.com/2010/02/html_cheatsheet/
+- http://www.w3schools.com/tags/
+
 Thanks for coming to our workshop! You're here today because you want to learn
 to code.
 
@@ -24,12 +36,18 @@ you can do it. It's not hard.
 
 ## Workshop Agenda
 
+We are going to show you what you need to do on the projector, and then
+you're going to do it! Don't worry about reading this whole document -- the
+content is here for you to peruse on your own time. Just do what we show you
+and you'll be good. If you need more details, you can always read this.
+
 Start Time  | End Time| Content
 ------------- | -------------| -------------
 3:00  | 3:15| Settle in, introductions, etc
-3:15  | 3:45| Quick lecture, overview what you will do
+3:15  | 3:45| Quick lecture, overview of what you will do.
 3:45  | 4:00 | Break
-4:00  | 5:00 | Build your website
+4:00  | 4:45 | Build your website
+4:45  | 5:00 | Publish your website on the Internet!
 
 Don't worry if this document looks really confusing! We are going to spend
 the first 30 minutes showing you everything you need to do. Then, you're
@@ -214,6 +232,18 @@ see what happens to your website. Here are some ideas:
 
 ### Next step -- advanced stuff!
 
+If you want to try some advanced stuff, like adding a spinning cube in your
+browser, you can copy and paste the code from the example website
+
+    - [Example Website Code](https://github.com/codenewhaven/pathways-workshop/blob/gh-pages/)
+
+For details on what that is, you can checkout the tutorial we made for our
+students at MBA:
+
+    - [Javascript Tutorial](https://github.com/codenewhaven/mba-website/blob/master/javascript.md#goal)
 
 
 ## 3. Pushing Code
+
+We want people to be able to see your code. We're going to show you how to do
+this.
