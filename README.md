@@ -127,6 +127,8 @@ First, we're going to **make an account** on [GitHub](http://www.github.com), so
 
 Next, we need to **install GitHub for Windows** on our machines, so we can develop locally (on these computers). The download page can be found [here](https://windows.github.com/). Click on the download link and follow the instructions to install.
 
+Then, **open the GitHub application**. We can find the application either on the Desktop or by hitting the Windows key (between Ctrl and Alt on your keyboard) and typing in "github" followed by hitting the `Enter` key. Once you've opened the application, go ahead and sign in using the account you've just created. 
+
 ## 2. Building Webpage
 
 Now we're ready to build your webpage!
@@ -247,8 +249,6 @@ students at MBA:
 
 
 ## 3. Publishing the Website
-
-Then, **open the GitHub application**. We can find the application either on the Desktop or by hitting the Windows key (between Ctrl and Alt on your keyboard) and typing in "github" followed by hitting the `Enter` key. Once you've opened the application, go ahead and sign in using the account you've just created. 
 
 Now, we want to create a **repository** on our computer to hold our web page. To do this, click on the `+` sign in the upper left-hand corner of the window. In the name field, enter `<your-username>.github.io` where `<your-username>` is the username for the GitHub account you've just created. Once you've entered the repository name, hit the `Enter` key or click "Create repository".
 
