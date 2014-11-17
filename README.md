@@ -1,5 +1,7 @@
 # Welcome, Pathways Students!
 
+Quicklinks within this document:
+
 - [Welcome](#welcome-pathways-students)
     - [Agenda](#workshop-agenda)
     - [Instructors](#your-instructors-today)
