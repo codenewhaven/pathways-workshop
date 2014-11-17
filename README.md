@@ -104,7 +104,9 @@ It's actually all very simple.
 
 ## Building Webpage
 
-What is a webpage?
+Now we're ready to build your webpage!
+
+### Hang on, what's a webpage?!
 
 - A webpage is just a file, that ends in `.html`, like `index.html`
     - A word document is also a file, e.g. `youressay.docx`
@@ -172,6 +174,22 @@ http://codenewhaven.github.io/pathways-workshop/
 If you copy and paste that code into a file on your computer, and save it as
 `index.html`, then you will see the same thing when you open the browser.
 
+### Try it yourself!
 
+Here's what you do:
+
+    1. Create a file in the directory you just made, called "index.html"
+
+    2. Open "index.html" in a text editor (we'll show you how to do this)
+
+    3. Copy and paste the code above into the text editor
+
+    4. Go into your browser, and File -> Open, then select the file
+
+    There's your webpage!
+
+Don't worry, we're going to show you how to do all of this.
+
+Please let us know any questions you have!
 
 ## Pushing Code
