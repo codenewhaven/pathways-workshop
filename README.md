@@ -242,12 +242,12 @@ see what happens to your website. Here are some ideas:
 If you want to try some advanced stuff, like adding a spinning cube in your
 browser, you can copy and paste the code from the example website
 
-[Example Website Code](https://github.com/codenewhaven/pathways-workshop/blob/gh-pages/)
+  - [Example Website Code](https://github.com/codenewhaven/pathways-workshop/blob/gh-pages/)
 
 For details on what that is, you can checkout the tutorial we made for our
 students at MBA:
 
-[Javascript Tutorial](https://github.com/codenewhaven/mba-website/blob/master/javascript.md#goal)
+  - [Javascript Tutorial](https://github.com/codenewhaven/mba-website/blob/master/javascript.md#goal)
 
 
 ## 3. Publishing the Website
@@ -270,8 +270,8 @@ Congratulations! You've just published your own personal web page to The wonderf
 
 ## 4. Further Steps
 
-The cool thing about GitHub is that you can access your code from wherever you have an internet connection. You can also "pull" your code to work on it on your own (or any) computer locally. After you've made your changes (adding other pages, beautifying your indes.html, ect) you can then `push` your changes to update your site online. Lather, Rinse, Repeat until you've made the next Facebook!
+The cool thing about GitHub is that you can access your code from wherever you have an internet connection. You can also `"pull"` your code to work on it on your own (or any) computer locally. After you've made your changes (adding other pages, beautifying your indes.html, ect) you can then `"push"` your changes to update your site online. Lather, Rinse, Repeat until you've made the next Facebook!
 
 Some helpful links:
-[w3schools](http://www.w3schools.com/)
-[GitHub tutorial](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
+  - [w3schools](http://www.w3schools.com/)
+  - [GitHub tutorial](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
