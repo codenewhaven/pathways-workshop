@@ -262,11 +262,11 @@ Your new repository should show up on the lefthand side of the GitHub applicatio
 
 Go back to the GitHub application, and click on the top `Uncomitted changes` section in your repository. Enter "initial commit" or some other message into the `Summary` field. You can fill in the `Description` field if you like, but it's not necessary. 
 
-Click on `Commit to master` or hit the `Enter` key to commit your changes. 
+**Click** on `Commit to master` or hit the `Enter` key to commit your changes. 
 
-Finally, click `Publish repository`, which can be found in the upper righthand corner of the GitHub application. 
+Finally, **click** `Publish repository`, which can be found in the upper righthand corner of the GitHub application. 
 
-Congratulations! You've just published your own personal web page to The wonderful, worldwide web. You can find your web page at [http://<your-username>.github.io](http://www.github.com) where `<your-username>` is replaced with your GitHub username.
+**Congratulations!** You've just published your own personal web page to The wonderful, worldwide web. You can find your web page at [http://\<your-username\>.github.io](http://www.github.com) where `<your-username>` is replaced with your GitHub username.
 
 ## 4. Further Steps
 
