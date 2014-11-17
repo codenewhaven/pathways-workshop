@@ -65,7 +65,6 @@ all going to have a website like this.
 Don't worry if this all looks confusing. We're going to go over it with you
 for the first 30 minutes, and then we're here to help.
 
-
 The goal today is to build a website for yourself. Here's an example
 of what you're going to build:
 
@@ -73,21 +72,26 @@ Here's an example of what you are going to build today:
 
 - <http://codenewhaven.github.io/pathways-workshop>
 
-## High level
+### High level
 
 At a high level, this is what you're going to do in the next hour:
 
-1. Create an account on **GitHub** (that's this website)
+1. Setup
+    1. Create an account on **GitHub** (that's this website)
 
-2. Create a **GitHub repository** for yourself.
+    2. Create a **GitHub repository** for yourself.
 
-3. **Clone** the repository, so you have a **directory** on your computer.
+    3. **Clone** the repository, so you have a **directory** on your computer.
 
-4. Create some **HTML files** in the repository.
+2. Building Website
 
-5. Open the HTML files in your browser -- that's your website!!
+    1. Create some **HTML files** in the repository.
 
-6. **Push the code to github** so anyone can see it! :)
+    2. Open the HTML files in your browser -- that's your website!!
+
+3. Pushing Code
+
+    1. **Push the code to github** so anyone can see it! :)
 
 If any of this looks confusing to you now, don't worry, it won't be soon!
 It's actually all very simple.
