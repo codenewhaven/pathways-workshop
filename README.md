@@ -8,7 +8,7 @@ Quicklinks within this document:
     - [Examples! MBA Student Websites](#mba-student-websites)
 - [Tutorial](#tutorial)
     - [Setup](#setup)
-    - [Building Website](#building-website)
+    - [Building Website](#building-webpage)
     - [Pushing Code](#pushing-code)
 
 Thanks for coming to our workshop! You're here today because you want to learn
@@ -125,6 +125,7 @@ An HTML file looks like this:
 
 (Don't worry -- you don't need to understand all of this!)
 
+(You can also find this file [here](https://github.com/codenewhaven/pathways-workshop/blob/gh-pages/index.html): )
 **/some/directory/on/your/computer/index.html**
 
     <html>
@@ -195,5 +196,23 @@ Here's what you do:
 Don't worry, we're going to show you how to do all of this.
 
 Please let us know any questions you have!
+
+### Play around with it!
+
+Try playing around with the code in your webpage. Make some changes, and
+see what happens to your website. Here are some ideas:
+
+- Change the title.
+    - What happens if you change the text in between `<title>...</title>` ?
+- Make some text bold
+    - Try changing `My name is Miles` to `<b>My name is Miles</b>`. What happens?
+- Add some more space in between the links
+    - What happens when you change `<br />` to `<br /><br /><br /><br /><br />` ?
+- Break the page
+    - What happens when you delete `</h1>`? Why?
+
+### Next step -- advanced stuff!
+
+
 
 ## Pushing Code
