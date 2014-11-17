@@ -1,10 +1,3 @@
-# Contents
-
-- [Welcome](#welcome-pathways-students)
-    - [Instructors](#your-instructors-today)
-    - [Agenda](#workshop-agenda)
-- Something else
-
 # Welcome, Pathways Students!
 
 Thanks for coming to our workshop! You're here today because you want to learn
@@ -17,6 +10,15 @@ having a working website that you can show to your friends and family.
 
 Our goal is to give you the confidence that if you want to learn to code,
 you can do it. It's not hard.
+
+- [Welcome](#welcome-pathways-students)
+    - [Instructors](#your-instructors-today)
+    - [Agenda](#workshop-agenda)
+- [Tutorial](#tutorial)
+    - [Setup](#setup)
+    - [Building Website](#building-website)
+    - [Pushing Code](#pushing-code)
+
 
 ## Your Instructors Today
 ![Your Instructors](img/whobanner.png)
