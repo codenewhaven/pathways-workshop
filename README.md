@@ -104,22 +104,16 @@ It's actually all very simple.
 
 ## Building Webpage
 
-A simple web page is just a file! When you use Microsoft Word to write a paper,
-you are creating files. When you write an essay, you save it as something like
-`myessay.docx`. When you save an image, you save it as `catpicture.gif` or
-`funnyl0lz.jpg`. These are files. The important part of each file is the part
-after the `.`, like `.docx`, `.gif`, or `.jpg`. This is called the
-**file extension**, and it tells your computer what to do with the file. When
-your computer sees a `.docx` file, it knows to open it in Word. Similarly, when
-it sees a `.jpg` or `.gif` file, it knows to show you an image.
+What is a webpage?
 
-When you are writing a webpage, you want to use something called **HTML**.
-HTML stands for "hypertext markup language", but you can think of it as
-a very simple programming language. Any file ending in `.html` is an HTML
-file, and your computer knows that **when it sees a `.html` file, it should
-open it in your web browser.** That means that if you save a file as `index.html`
-and double click it, your computer will open it in your web browser, e.g.
-Google Chrome, Mozilla Firefox, or Microsoft Internet Explorer.
+- A webpage is just a file, that ends in `.html`, like `index.html`
+    - A word document is also a file, e.g. `youressay.docx`
+    - Images are files too, e.g. `funnycat.jpg` or `l0lzkitten.gif`
+- The important part is the **file extension** e.g. `.html` or `.docx` or `.jpg`
+    - Your computer decides what to do with the file based on the extension
+    - When it sees `.jpg` or `.gif` it knows to show you an image
+    - When it sees `.docx` it knows to open microsoft word
+    - When it sees `.html` it knows to open your browser and show you a webpage!
 
 An HTML file looks like this:
 
