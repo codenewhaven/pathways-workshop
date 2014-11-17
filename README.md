@@ -129,6 +129,8 @@ Next, we need to **install GitHub for Windows** on our machines, so we can devel
 
 Then, **open the GitHub application**. We can find the application either on the Desktop or by hitting the Windows key (between Ctrl and Alt on your keyboard) and typing in "github" followed by hitting the `Enter` key. Once you've opened the application, go ahead and sign in using the account you've just created. 
 
+Now that we're signed in, you can close the GitHub application. We'll come back to it later when it's time to publish.
+
 ## 2. Building Webpage
 
 Now we're ready to build your webpage!
@@ -240,20 +242,36 @@ see what happens to your website. Here are some ideas:
 If you want to try some advanced stuff, like adding a spinning cube in your
 browser, you can copy and paste the code from the example website
 
-    - [Example Website Code](https://github.com/codenewhaven/pathways-workshop/blob/gh-pages/)
+[Example Website Code](https://github.com/codenewhaven/pathways-workshop/blob/gh-pages/)
 
 For details on what that is, you can checkout the tutorial we made for our
 students at MBA:
 
-    - [Javascript Tutorial](https://github.com/codenewhaven/mba-website/blob/master/javascript.md#goal)
+[Javascript Tutorial](https://github.com/codenewhaven/mba-website/blob/master/javascript.md#goal)
 
 
 ## 3. Publishing the Website
 
-Now, we want to create a **repository** on our computer to hold our web page. To do this, click on the `+` sign in the upper left-hand corner of the window. In the name field, enter `<your-username>.github.io` where `<your-username>` is the username for the GitHub account you've just created. Once you've entered the repository name, hit the `Enter` key or click "Create repository".
+Let's start by opening the GitHub for Windows application again. The application should already be signed into your GitHub account, per the Setup section of this tutorial we've already completed.
+
+We want to create a **repository** on our computer to hold our web page. To do this, click on the `+` sign in the upper left-hand corner of the window. In the name field, enter `<your-username>.github.io` where `<your-username>` is the username for the GitHub account you've just created. Once you've entered the repository name, hit the `Enter` key or click "Create repository".
 
 Your new repository should show up on the lefthand side of the GitHub application window. Right-click on it and **select `Open in Explorer`** to open up our repository in Windows Explorer.
 
-**Drag and drop** your website's files from the Desktop to your repository folder.
+**Drag and drop** your website's files from the Desktop into your repository folder.
 
+Go back to the GitHub application, and click on the top `Uncomitted changes` section in your repository. Enter "initial commit" or some other message into the `Summary` field. You can fill in the `Description` field if you like, but it's not necessary. 
 
+Click on `Commit to master` or hit the `Enter` key to commit your changes. 
+
+Finally, click `Publish repository`, which can be found in the upper righthand corner of the GitHub application. 
+
+Congratulations! You've just published your own personal web page to The wonderful, worldwide web. You can find your web page at [http://<your-username>.github.io](http://www.github.com) where `<your-username>` is replaced with your GitHub username.
+
+## 4. Further Steps
+
+The cool thing about GitHub is that you can access your code from wherever you have an internet connection. You can also "pull" your code to work on it on your own (or any) computer locally. After you've made your changes (adding other pages, beautifying your indes.html, ect) you can then `push` your changes to update your site online. Lather, Rinse, Repeat until you've made the next Facebook!
+
+Some helpful links:
+[w3schools](http://www.w3schools.com/)
+[GitHub tutorial](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
