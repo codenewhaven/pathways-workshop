@@ -123,6 +123,9 @@ It's actually all very simple.
 
 ## 1. Setup
 
+First, we're going to **make an account** on [GitHub](http://www.github.com), so go ahead and click on that link and follow the steps to ceate an accout. Make sure to either write down or remember your password, as we'll need it later.
+
+Next, we need to **install GitHub for Windows** on our machines, so we can develop locally (on these computers). The download page can be found [here](https://windows.github.com/). Click on the download link and follow the instructions to install.
 
 ## 2. Building Webpage
 
@@ -243,7 +246,14 @@ students at MBA:
     - [Javascript Tutorial](https://github.com/codenewhaven/mba-website/blob/master/javascript.md#goal)
 
 
-## 3. Pushing Code
+## 3. Publishing the Website
 
-We want people to be able to see your code. We're going to show you how to do
-this.
+Then, **open the GitHub application**. We can find the application either on the Desktop or by hitting the Windows key (between Ctrl and Alt on your keyboard) and typing in "github" followed by hitting the `Enter` key. Once you've opened the application, go ahead and sign in using the account you've just created. 
+
+Now, we want to create a **repository** on our computer to hold our web page. To do this, click on the `+` sign in the upper left-hand corner of the window. In the name field, enter `<your-username>.github.io` where `<your-username>` is the username for the GitHub account you've just created. Once you've entered the repository name, hit the `Enter` key or click "Create repository".
+
+Your new repository should show up on the lefthand side of the GitHub application window. Right-click on it and **select `Open in Explorer`** to open up our repository in Windows Explorer.
+
+**Drag and drop** your website's files from the Desktop to your repository folder.
+
+
