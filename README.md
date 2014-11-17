@@ -1,5 +1,11 @@
-Welcome, Pathways Students!
-=================
+# Contents
+
+    - [Welcome](#welcome-pathways-students)
+        - [Instructors](#your-instructors-today)
+        - [Agenda](#workshop-agenda)
+    - Something else
+
+# Welcome, Pathways Students!
 
 Thanks for coming to our workshop! You're here today because you want to learn
 to code.
