@@ -260,7 +260,7 @@ Your new repository should show up on the lefthand side of the GitHub applicatio
 
 **Drag and drop** your website's files from the Desktop into your repository folder.
 
-Go back to the GitHub application, and click on the top `Uncomitted changes` section in your repository. Enter "initial commit" or some other message into the `Summary` field. You can fill in the `Description` field if you like, but it's not necessary. 
+Go back to the GitHub application, and **click** on the top `Uncomitted changes` section in your repository. **Enter** "initial commit" or some other message into the `Summary` field. You can fill in the `Description` field if you like, but it's not necessary. 
 
 **Click** on `Commit to master` or hit the `Enter` key to commit your changes. 
 
