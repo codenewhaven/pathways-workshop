@@ -2,10 +2,10 @@
 
 Quicklinks within this document:
 
-- [Welcome](#welcome-pathways-students)
-    - [Agenda](#workshop-agenda)
-    - [Instructors](#your-instructors-today)
-    - [MBA Student Websites](#mba-student-websites)
+- [Welcome!](#welcome-pathways-students)
+    - [Today's Agenda](#workshop-agenda)
+    - [Your Instructors](#your-instructors-today)
+    - [Examples! MBA Student Websites](#mba-student-websites)
 - [Tutorial](#tutorial)
     - [Setup](#setup)
     - [Building Website](#building-website)
@@ -73,10 +73,30 @@ Here's an example of what you are going to build today:
 
 - <http://codenewhaven.github.io/pathways-workshop>
 
+## High level
+
+At a high level, this is what you're going to do in the next hour:
+
+1. Create an account on **GitHub** (that's this website)
+
+2. Create a **GitHub repository** for yourself.
+
+3. **Clone** the repository, so you have a **directory** on your computer.
+
+4. Create some **HTML files** in the repository.
+
+5. Open the HTML files in your browser -- that's your website!!
+
+6. **Push the code to github** so anyone can see it! :)
+
+If any of this looks confusing to you now, don't worry, it won't be soon!
+It's actually all very simple.
+
 ## Setup
 
 
-
 ## Building Website
+
+You have all used a browser
 
 ## Pushing Code
