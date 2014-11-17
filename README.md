@@ -126,6 +126,7 @@ An HTML file looks like this:
 (Don't worry -- you don't need to understand all of this!)
 
 (You can also find this file [here](https://github.com/codenewhaven/pathways-workshop/blob/gh-pages/index.html): )
+
 **/some/directory/on/your/computer/index.html**
 
     <html>
