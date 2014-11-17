@@ -54,3 +54,14 @@ They're a work in progress, but a great start! By the end of today, you're
 all going to have a website like this.
 
 # Tutorial
+
+The goal today is to build a website for yourself. Here's an example
+of what you're going to build:
+
+
+
+## Setup
+
+## Building Website
+
+## Pushing Code
