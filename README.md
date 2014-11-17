@@ -1,9 +1,9 @@
 # Contents
 
-    - [Welcome](#welcome-pathways-students)
-        - [Instructors](#your-instructors-today)
-        - [Agenda](#workshop-agenda)
-    - Something else
+- [Welcome](#welcome-pathways-students)
+    - [Instructors](#your-instructors-today)
+    - [Agenda](#workshop-agenda)
+- Something else
 
 # Welcome, Pathways Students!
 
